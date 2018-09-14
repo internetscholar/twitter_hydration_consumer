@@ -1,3 +1,3 @@
 #!/bin/bash
-python3 ~/get_tweets.py
+python3 ~/twitter_hydration_consumer.py
 sudo shutdown -h now
